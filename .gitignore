@@ -1,0 +1,47 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+*.whl
+
+# ===== Virtual Environment =====
+venv/
+env/
+.venv/
+.env/
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# ===== Downloaded Videos =====
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+
+# ===== Logs =====
+*.log
+
+# ===== Environment Variables =====
+.env
+.env.local
+.env.production
