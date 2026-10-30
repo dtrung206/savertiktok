@@ -1,4 +1,4 @@
-# 🎬 TikSaver — Tải Video TikTok Không Logo HD
+# 🎬 DinhTrung — Tải Video TikTok Không Logo HD
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -30,7 +30,7 @@
 
 ```
 ┌─────────────────────────────────────────┐
-│           ⚡ TikSaver                    │
+│           ⚡ DinhTrung                    │
 │   Tải video TikTok không logo, HD       │
 │                                         │
 │  ┌─────────────────────────┐ ┌────────┐ │
@@ -60,7 +60,7 @@
 ### Bước 1: Clone repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tiksaver.git
+git clone https://github.com/dtrung06/tiksaver.git
 cd tiksaver
 ```
 
